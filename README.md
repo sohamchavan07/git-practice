@@ -30,4 +30,7 @@ git log --oneline
 git diff HEAD~1..HEAD
 ```
 
+## Feature: README update on feature-readme
+This README was updated on the `feature-readme` branch to complete the assignment.
+
 
