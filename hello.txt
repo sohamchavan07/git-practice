@@ -2,3 +2,4 @@ Hello, Git!
 
 
 First change line
+Second change line
