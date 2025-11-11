@@ -1,0 +1,6 @@
+Manual versioning limitations:
+1) Error-prone: Easy to forget what changed between versions or lose context.
+2) Naming chaos: Inconsistent filenames (story_final_v2_real_final.txt) cause confusion.
+3) Collaboration pain: Merging others’ changes manually is slow and leads to conflicts.
+
+

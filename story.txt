@@ -1,0 +1,6 @@
+Once upon a time, there was a developer learning version control.
+They wrote code, made changes, and sometimes forgot what changed.
+Then they discovered better tools to track history and collaborate.
+The end... or rather, the beginning.
+
+
